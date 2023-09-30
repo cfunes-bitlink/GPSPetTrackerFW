@@ -1,0 +1,3 @@
+[submodule "firmware/components/messages/nanopb"]
+	path = firmware/components/messages/nanopb
+	url = https://github.com/nanopb/nanopb.git
